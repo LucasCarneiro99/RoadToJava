@@ -1,6 +1,6 @@
 package exercises;
 import java.util.Scanner;
-
+//Calculate the area of a circle
 public class Main {
 
 	public static void main(String[] args) {
