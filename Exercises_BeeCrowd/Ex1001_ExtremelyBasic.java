@@ -1,4 +1,4 @@
-package exercises;
+package RoadToJava.Exercises_BeeCrowd;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package estudos;
+package RoadToJava.Exercises_BeeCrowd;
 
 import java.util.Scanner;
 

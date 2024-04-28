@@ -1,7 +1,7 @@
-package exercises;
+package RoadToJava.Exercises_BeeCrowd;
 import java.util.Scanner;
 //Calculate the area of a circle
-public class Main {
+public class Ex1002_AreaOfCircle {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
